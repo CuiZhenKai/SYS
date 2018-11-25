@@ -1,0 +1,7 @@
+html,body{
+    /* overflow-x: hidden; */
+    overflow: scroll;
+}
+body{
+    height: 100%;
+}
